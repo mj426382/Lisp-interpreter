@@ -1,0 +1,8 @@
+A clean lisp is of course Touring complete.
+For it to remain Touring complete we need instructions:
+1) +, replaces -, *, so also % and mod when used cleverly
+2) and, or, not, elementary logical operations
+3) if else operations, needed for the program to work properly
+4) the < operation, it replaces the rest
+5) functions, using variables, they will replace loops and allow to execute each program
+After such a reduction we have less states, but we are able to operate so cleverly on the possessed that the reduction does not break our touring complete.
